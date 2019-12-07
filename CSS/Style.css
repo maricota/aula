@@ -1,0 +1,21 @@
+body {
+    background: #e8c5c5;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+header{
+    margin-top: 70px;
+}
+h1{
+    color: red;
+    font-family: fantasy;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-size: 18px;
+}
+img {
+    margin-bottom: 20px;
+}
